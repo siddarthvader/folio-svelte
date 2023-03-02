@@ -5,15 +5,10 @@
 	import FooterContent from './Components/Footer.svelte';
 </script>
 
-<!-- 
-
-
-<HeroContent />
-
-<FooterContent /> -->
-
-<SideNavContent />
 <HeaderContent />
+<SideNavContent />
+<FooterContent />
+<HeroContent />
 
 <style global>
 	.app-shell {
