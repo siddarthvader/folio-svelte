@@ -20,7 +20,7 @@
 	<Navbar height="100%" slot="navbar" position={{ top: 0, left: 0 }} width={{ xl: '300px' }}>
 		<SideNavContent />
 	</Navbar>
-	<Header slot="header" height="32px" p="1">
+	<Header height="auto" slot="header" p="1">
 		<HeaderContent />
 	</Header>
 
